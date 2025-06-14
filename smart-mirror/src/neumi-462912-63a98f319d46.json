@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "neumi-462912",
+  "private_key_id": "63a98f319d46626444744f30e8adef280e00c9e2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCb7YOBXsTjyRHz\n9zyaxI7aCmII1Q2W8nub1jOE0h7Ue4w0uScaswnHwY9TPvGlH6c68oqiTCFBeUi/\n+OWHWl8iU5gcQSU66eBNzCSei+WXuOSoMgi2JumpESDcDDZGOX+FBBECNi3kOqKz\nCW9KvINIZvUea7/KLw+kWjU4T0eQtl9SCdQblPfov8789K97N4WfKADv9qgNbJlg\noqIt6pq6yZc4iUug1bKtVbHjJKodkf8H0YalkJrNaZAgJ04WKKksSc8dPDpiMG32\ncgjhPDUxrThiz8QWgu18Nneg4x8SYEzQ21/3QT9pTjVbPTr26YGYkngCiPHsPHmW\n3g4+jC2vAgMBAAECggEAIXWLBYS/fR2VY6OG9rL88F7QAJMvMlfgHGWPco3gHbpR\nMLMWaA1JKPso9TUJh2ROb0DCbOcnL7SF3uPa5PuIdIY5mr6D7atn/Wmz5e2hG7iK\nIGl0Ixogg63wPifEsbb+3R0tRSs5F8NZTE/W+NOQ3EVzjc6TPiBxG9RbnTSt56hU\n4Pp+QpGrFYa1c5ygUTs5DVMB+cVCFKf8iw0tjIveFDwmRqiuZ7C6Pc19ftCpZ0vn\nEw7MuvXUnPQMQioC0sGIJ7hLx0UDpixAJK74gk9Xi+WRh4gutEp+xiHhlkjPziZZ\nhsKzPbL59LtoIj3bxoSQoIM7Hs/eEVZXxRt2/NqdGQKBgQDQ/K5Ob5hjGc8N2BVw\nUTlB1sIlS4dv7hdNaJ4k8zahCnUsNNl73qvqCxpRH1kuXrUA7LHRu1HgdGrVE2Vf\nlQOcBm5u0owaoYXNoNhokSWlc0ltshU7AYjs8kwdt1KV+EDi6rJlmlp79Xmjh0zq\nB1r6zk+jFrDSOlclVwoFKwaDcwKBgQC/ATZ5HC2OSbFCkTORaVB8dZ/G6Ygkl14o\niyVMuKEa1gaRvMP67lwQWNbQlc8oFOgzCxaudQCbKyCtSK32WsPA8TQOU/UeLwUO\nmJHeLrSAEN5+7J/YKzfNhTBQQubNPVN21wdRsovcKQrkaB4nK15D/7prTVNm8Nrz\nc5h4jO411QKBgDhfUG1b8NEajx1+4hmP70/xLCF/RCNPJ/37cF0rNdsuxPiNsPSW\n1eyl3g1v1VCKv2xmbHjUfHt9K6waNUgZHAYkPfmq1ZwBYeRbtMRQEsWUWYQ7ezqV\naWfw29NQNfi6JFaRVFnPzwSM7KjNwFOIdGQe7qBhaITss8Egv1Uxi+o9AoGBAK1L\nKGURT7O84HqIysSvTDrfbStHTiIEw4T9WcYV7PUwIZ2wKg9Mm3KpZ5yvjtfKwDEv\nalC2Duq5YlhVjJ/rEZfIP3aQbeAIwQnRGub+cP2QUI3PmebCr0pkAMWRLV4guc0k\noptY5tPE2QEKBfF7w3bmWfhom7bV55Dh2//jvWxRAoGADsVZmGUuSMLbvfUQ8pJO\nySBVFN7iSOIzZpL2R7AXDej6o2NOjTPZE7uHXRDlj7/kLcBUPBPWlti0O88ImJLt\nUDoM96vZoQ2ZIrdR4KbzEGwDCF/C7xQ4mCARz0Kqv121JZSskWRKxCVDbmd65Gr3\n9V6B8RF64wJhpIx/E8PE3YY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "neumi-257@neumi-462912.iam.gserviceaccount.com",
+  "client_id": "102470540227929310863",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neumi-257%40neumi-462912.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
